@@ -144,7 +144,7 @@ cd SuperAGI
 #### 🌀 Digital Ocean
 
 <p align="left">
-<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/TransformerOptimus/SuperAGI/tree/main"> <img src="https://www.deploytodo.com/do-btn-blue.svg"></a><br>Deploy SuperAGI to DigitalOcean with one click.
+<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/haihd/SuperAGI-try"> <img src="https://www.deploytodo.com/do-btn-blue.svg"></a><br>Deploy SuperAGI to DigitalOcean with one click.
 </p>
 
 <a id="architecture">
